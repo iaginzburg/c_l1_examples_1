@@ -1,0 +1,15 @@
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/bin/Debug/net6.0/Example001_Hello
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/bin/Debug/net6.0/Example001_Hello.deps.json
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/bin/Debug/net6.0/Example001_Hello.runtimeconfig.json
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/bin/Debug/net6.0/Example001_Hello.dll
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/bin/Debug/net6.0/Example001_Hello.pdb
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/Example001_Hello.csproj.AssemblyReference.cache
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/Example001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/Example001_Hello.AssemblyInfoInputs.cache
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/Example001_Hello.AssemblyInfo.cs
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/Example001_Hello.csproj.CoreCompileInputs.cache
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/Example001_Hello.dll
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/refint/Example001_Hello.dll
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/Example001_Hello.pdb
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/Example001_Hello.genruntimeconfig.cache
+/Users/ilaginzburg/Desktop/c#_L/Examples/Example001_Hello/obj/Debug/net6.0/ref/Example001_Hello.dll
